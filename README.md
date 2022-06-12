@@ -1,6 +1,6 @@
 # Fundamentals of Machine Learning - Exercises
 
-Scripts for exercises in lecture "Fundamentals of Machine Learning" 2021/22.
+Scripts for exercises in lecture "Fundamentals of Machine Learning" 2021/22, Heidelberg University.
 
 ## Exercise 1a
 Monte-Carlo Simulation
